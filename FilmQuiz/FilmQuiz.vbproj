@@ -125,6 +125,9 @@
     <EmbeddedResource Include="frmMain.resx">
       <DependentUpon>frmMain.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmQuestion1.resx">
+      <DependentUpon>frmQuestion1.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
@@ -143,6 +146,30 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\should-i-watch-casino-royale-2006.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1_Etx-JkqJ5fGz9DnwLVlzNA.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\should-i-watch-casino-royale-20061.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c5rgA1EYwMmxsQdyvLkQ8LD5Qun.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\81e0LwJuIRL._AC_UF1000,1000_QL80_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MV5BYzIxOTk1NDQtMzJlOC00ODZlLWE1YTAtNTA5ODZlZmZmMDBhXkEyXkFqcGdeQXVyMjkwOTAyMDU%40._V1_FMjpg_UX1000_.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\should-i-watch-casino-royale-20062.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\41a088fa3de2561965c661e113a1233c.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
