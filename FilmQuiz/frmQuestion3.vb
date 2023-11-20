@@ -4,8 +4,8 @@
     End Sub
 
     Private Sub btnNext_Click(sender As Object, e As EventArgs) Handles btnNext.Click
-        If btnAnswer3.Checked Then
-            playerScore = playerscore + 1
+        If btnAnswer2.Checked Then
+            playerScore = playerScore + 1
         End If
 
         frmHighScore.Show()
